@@ -1,0 +1,18 @@
+<html>
+  <head>
+    
+    <meta charset="utf-8"/>
+    <title>Family tree heatmap</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  </head>
+  <body>
+    <script type="text/javascript">
+      console.log("Fetching data...");
+      $.getJSON("https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json").then(data => {
+        console.log(data);
+      }).catch(error => {
+        console.error(error);
+      });
+    </script>
+  </body>
+</html>

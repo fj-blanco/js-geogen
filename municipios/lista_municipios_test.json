@@ -1,0 +1,902 @@
+[
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Alegría-Dulantzi",
+    "SUPERFICIE": 1994.5872,
+    "LONGITUD_ETRS89": -2.51243731,
+    "LATITUD_ETRS89": 42.83981158,
+    "ALTITUD": 568
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Amurrio",
+    "SUPERFICIE": 9635289,
+    "LONGITUD_ETRS89": -3.00007326,
+    "LATITUD_ETRS89": 43.05427776,
+    "ALTITUD": 219
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Aramaio",
+    "SUPERFICIE": 7325.84,
+    "LONGITUD_ETRS89": -2.56540037,
+    "LATITUD_ETRS89": 43.05119653,
+    "ALTITUD": 333
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Artziniega",
+    "SUPERFICIE": 2728.73,
+    "LONGITUD_ETRS89": -3.12791718,
+    "LATITUD_ETRS89": 43.12084358,
+    "ALTITUD": 210
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Armiñón",
+    "SUPERFICIE": 1294.4326,
+    "LONGITUD_ETRS89": -2.87183475,
+    "LATITUD_ETRS89": 42.72326199,
+    "ALTITUD": 467
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Arratzua-Ubarrundia",
+    "SUPERFICIE": 5755.98,
+    "LONGITUD_ETRS89": -2.63878816,
+    "LATITUD_ETRS89": 42.89116171,
+    "ALTITUD": 528
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Asparrena",
+    "SUPERFICIE": 6533.64,
+    "LONGITUD_ETRS89": -2.31670754,
+    "LATITUD_ETRS89": 42.88968768,
+    "ALTITUD": 602
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Ayala/Aiara",
+    "SUPERFICIE": 14074.15,
+    "LONGITUD_ETRS89": -3.04306746,
+    "LATITUD_ETRS89": 43.07768283,
+    "ALTITUD": 306
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Baños de Ebro/Mañueta",
+    "SUPERFICIE": 945.9752,
+    "LONGITUD_ETRS89": -2.67863583,
+    "LATITUD_ETRS89": 42.52925602,
+    "ALTITUD": 421
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Barrundia",
+    "SUPERFICIE": 9742.34,
+    "LONGITUD_ETRS89": -2.49407452,
+    "LATITUD_ETRS89": 42.91537538,
+    "ALTITUD": 575
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Berantevilla",
+    "SUPERFICIE": 3573.0031,
+    "LONGITUD_ETRS89": -2.85971414,
+    "LATITUD_ETRS89": 42.68227191,
+    "ALTITUD": 471
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Bernedo",
+    "SUPERFICIE": 13044.2902,
+    "LONGITUD_ETRS89": -2.49825439,
+    "LATITUD_ETRS89": 42.62676989,
+    "ALTITUD": 710
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Campezo/Kanpezu",
+    "SUPERFICIE": 8536.0875,
+    "LONGITUD_ETRS89": -2.35207693,
+    "LATITUD_ETRS89": 42.66971209,
+    "ALTITUD": 578
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Zigoitia",
+    "SUPERFICIE": 10206.9376,
+    "LONGITUD_ETRS89": -2.73033002,
+    "LATITUD_ETRS89": 42.96210609,
+    "ALTITUD": 585
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Kripan",
+    "SUPERFICIE": 1251599,
+    "LONGITUD_ETRS89": -2.51621636,
+    "LATITUD_ETRS89": 42.59082439,
+    "ALTITUD": 691
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Kuartango",
+    "SUPERFICIE": 8403.4771,
+    "LONGITUD_ETRS89": -2.88438243,
+    "LATITUD_ETRS89": 42.87006411,
+    "ALTITUD": 594
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Elburgo/Burgelu",
+    "SUPERFICIE": 3209.3031,
+    "LONGITUD_ETRS89": -2.545933,
+    "LATITUD_ETRS89": 42.850282,
+    "ALTITUD": 540
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Elciego",
+    "SUPERFICIE": 1632.3129,
+    "LONGITUD_ETRS89": -2.61723872,
+    "LATITUD_ETRS89": 42.51420738,
+    "ALTITUD": 451
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Elvillar/Bilar",
+    "SUPERFICIE": 1750.2228,
+    "LONGITUD_ETRS89": -2.54441267,
+    "LATITUD_ETRS89": 42.56842577,
+    "ALTITUD": 581
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Iruraiz-Gauna",
+    "SUPERFICIE": 4712.8628,
+    "LONGITUD_ETRS89": -2.475996232,
+    "LATITUD_ETRS89": 42.83131017,
+    "ALTITUD": 627
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Labastida/Bastida",
+    "SUPERFICIE": 3816.9756,
+    "LONGITUD_ETRS89": -2.793199,
+    "LATITUD_ETRS89": 42.590217,
+    "ALTITUD": 555
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Lagrán",
+    "SUPERFICIE": 4562.02,
+    "LONGITUD_ETRS89": -2.58423377,
+    "LATITUD_ETRS89": 42.62621464,
+    "ALTITUD": 751
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Laguardia",
+    "SUPERFICIE": 8097.11,
+    "LONGITUD_ETRS89": -2.58411693,
+    "LATITUD_ETRS89": 42.55236655,
+    "ALTITUD": 630
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Lanciego/Lantziego",
+    "SUPERFICIE": 2425.3,
+    "LONGITUD_ETRS89": -2.51278162,
+    "LATITUD_ETRS89": 42.5624416,
+    "ALTITUD": 542
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Lapuebla de Labarca",
+    "SUPERFICIE": 598.7767,
+    "LONGITUD_ETRS89": -2.57209001,
+    "LATITUD_ETRS89": 42.49441468,
+    "ALTITUD": 431
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Leza",
+    "SUPERFICIE": 992.2543,
+    "LONGITUD_ETRS89": -2.63459428,
+    "LATITUD_ETRS89": 42.56469687,
+    "ALTITUD": 569
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Laudio/Llodio",
+    "SUPERFICIE": 3756,
+    "LONGITUD_ETRS89": -2.96256495,
+    "LATITUD_ETRS89": 43.1425188,
+    "ALTITUD": 123
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Arraia-Maeztu",
+    "SUPERFICIE": 12310.7942,
+    "LONGITUD_ETRS89": -2.444299,
+    "LATITUD_ETRS89": 42.738527,
+    "ALTITUD": 649
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Moreda de Álava/Moreda Araba",
+    "SUPERFICIE": 867.1106,
+    "LONGITUD_ETRS89": -2.40841718,
+    "LATITUD_ETRS89": 42.52479167,
+    "ALTITUD": 461
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Navaridas",
+    "SUPERFICIE": 891.6398,
+    "LONGITUD_ETRS89": -2.62479544,
+    "LATITUD_ETRS89": 42.5450594,
+    "ALTITUD": 535
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Okondo",
+    "SUPERFICIE": 2979.23,
+    "LONGITUD_ETRS89": -3.019026823,
+    "LATITUD_ETRS89": 43.1615513,
+    "ALTITUD": 135
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Oyón-Oion",
+    "SUPERFICIE": 4517.7474,
+    "LONGITUD_ETRS89": -2.436788,
+    "LATITUD_ETRS89": 42.506067,
+    "ALTITUD": 435
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Peñacerrada-Urizaharra",
+    "SUPERFICIE": 6217.54,
+    "LONGITUD_ETRS89": -2.71402821,
+    "LATITUD_ETRS89": 42.64417512,
+    "ALTITUD": 752
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Erriberagoitia/Ribera Alta",
+    "SUPERFICIE": 11978.2131,
+    "LONGITUD_ETRS89": -2.91080642,
+    "LATITUD_ETRS89": 42.80074682,
+    "ALTITUD": 545
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Erriberabeitia",
+    "SUPERFICIE": 2536.0438,
+    "LONGITUD_ETRS89": -2.91704002,
+    "LATITUD_ETRS89": 42.71339792,
+    "ALTITUD": 483
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Añana",
+    "SUPERFICIE": 2192.3285,
+    "LONGITUD_ETRS89": -2.98601634,
+    "LATITUD_ETRS89": 42.8012318,
+    "ALTITUD": 574
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Agurain/Salvatierra",
+    "SUPERFICIE": 3776.9884,
+    "LONGITUD_ETRS89": -2.389753,
+    "LATITUD_ETRS89": 42.850452,
+    "ALTITUD": 608
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Samaniego",
+    "SUPERFICIE": 1063761,
+    "LONGITUD_ETRS89": -2.67904862,
+    "LATITUD_ETRS89": 42.56735197,
+    "ALTITUD": 571
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "San Millán/Donemiliaga",
+    "SUPERFICIE": 8540.58,
+    "LONGITUD_ETRS89": -2.37748902,
+    "LATITUD_ETRS89": 42.87382571,
+    "ALTITUD": 600
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Urkabustaiz",
+    "SUPERFICIE": 6084.8426,
+    "LONGITUD_ETRS89": -2.90661046,
+    "LATITUD_ETRS89": 42.95304046,
+    "ALTITUD": 633
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Valdegovía/Gaubea",
+    "SUPERFICIE": 23827336,
+    "LONGITUD_ETRS89": -3.09884417,
+    "LATITUD_ETRS89": 42.84756896,
+    "ALTITUD": 552
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Harana/Valle de Arana",
+    "SUPERFICIE": 3912.1857,
+    "LONGITUD_ETRS89": -2.33104687,
+    "LATITUD_ETRS89": 42.75289194,
+    "ALTITUD": 812
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Villabuena de Álava/Eskuernaga",
+    "SUPERFICIE": 847.9289,
+    "LONGITUD_ETRS89": -2.66452938,
+    "LATITUD_ETRS89": 42.54857804,
+    "ALTITUD": 483
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Legutio",
+    "SUPERFICIE": 4585.3184,
+    "LONGITUD_ETRS89": -2.64255929,
+    "LATITUD_ETRS89": 42.9798744,
+    "ALTITUD": 570
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Vitoria-Gasteiz",
+    "SUPERFICIE": 27665.96,
+    "LONGITUD_ETRS89": -2.67275685,
+    "LATITUD_ETRS89": 42.85058789,
+    "ALTITUD": 539
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Yécora/Iekora",
+    "SUPERFICIE": 1880.2483,
+    "LONGITUD_ETRS89": -2.4700849,
+    "LATITUD_ETRS89": 42.56923117,
+    "ALTITUD": 694
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Zalduondo",
+    "SUPERFICIE": 1187.86,
+    "LONGITUD_ETRS89": -2.34650825,
+    "LATITUD_ETRS89": 42.88580971,
+    "ALTITUD": 612
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Zambrana",
+    "SUPERFICIE": 3950.6249,
+    "LONGITUD_ETRS89": -2.87806502,
+    "LATITUD_ETRS89": 42.66112968,
+    "ALTITUD": 458
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Zuia",
+    "SUPERFICIE": 12248.6671,
+    "LONGITUD_ETRS89": -2.81862854,
+    "LATITUD_ETRS89": 42.95597763,
+    "ALTITUD": 617
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Iruña Oka/Iruña de Oca",
+    "SUPERFICIE": 5325.0072,
+    "LONGITUD_ETRS89": -2.8147543,
+    "LATITUD_ETRS89": 42.81819126,
+    "ALTITUD": 502
+  },
+  {
+    "COD_PROV": 1,
+    "PROVINCIA": "Araba/Álava",
+    "NOMBRE_ACTUAL": "Lantarón",
+    "SUPERFICIE": 6748.9609,
+    "LONGITUD_ETRS89": -2.96649719,
+    "LATITUD_ETRS89": 42.71657557,
+    "ALTITUD": 482
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Abengibre",
+    "SUPERFICIE": 3076.9225,
+    "LONGITUD_ETRS89": -1.54384487,
+    "LATITUD_ETRS89": 39.2100078,
+    "ALTITUD": 634
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Alatoz",
+    "SUPERFICIE": 6385.5135,
+    "LONGITUD_ETRS89": -1.36097604,
+    "LATITUD_ETRS89": 39.09494843,
+    "ALTITUD": 858
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Albacete",
+    "SUPERFICIE": 112698.96,
+    "LONGITUD_ETRS89": -1.85574745,
+    "LATITUD_ETRS89": 38.99588053,
+    "ALTITUD": 681
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Albatana",
+    "SUPERFICIE": 3050.21,
+    "LONGITUD_ETRS89": -1.52275248,
+    "LATITUD_ETRS89": 38.5708754,
+    "ALTITUD": 582
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Alborea",
+    "SUPERFICIE": 7186.76,
+    "LONGITUD_ETRS89": -1.39670449,
+    "LATITUD_ETRS89": 39.27835442,
+    "ALTITUD": 706
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Alcadozo",
+    "SUPERFICIE": 9958.7,
+    "LONGITUD_ETRS89": -1.9802275,
+    "LATITUD_ETRS89": 38.6489758,
+    "ALTITUD": 925
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Alcalá del Júcar",
+    "SUPERFICIE": 14682.4446,
+    "LONGITUD_ETRS89": -1.42932697,
+    "LATITUD_ETRS89": 39.1932018,
+    "ALTITUD": 547
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Alcaraz",
+    "SUPERFICIE": 37053.3125,
+    "LONGITUD_ETRS89": -2.49034957,
+    "LATITUD_ETRS89": 38.66425104,
+    "ALTITUD": 953
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Almansa",
+    "SUPERFICIE": 53181.5,
+    "LONGITUD_ETRS89": -1.09414681,
+    "LATITUD_ETRS89": 38.86968811,
+    "ALTITUD": 687
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Alpera",
+    "SUPERFICIE": 17847.2745,
+    "LONGITUD_ETRS89": -1.23080245,
+    "LATITUD_ETRS89": 38.95969094,
+    "ALTITUD": 852
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Ayna",
+    "SUPERFICIE": 14658.96,
+    "LONGITUD_ETRS89": -2.07053831,
+    "LATITUD_ETRS89": 38.55217746,
+    "ALTITUD": 696
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Balazote",
+    "SUPERFICIE": 6515.3733,
+    "LONGITUD_ETRS89": -2.15096732,
+    "LATITUD_ETRS89": 38.88396156,
+    "ALTITUD": 771
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Balsa de Ves",
+    "SUPERFICIE": 7634.9273,
+    "LONGITUD_ETRS89": -1.19650012,
+    "LATITUD_ETRS89": 39.26461253,
+    "ALTITUD": 751
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "El Ballestero",
+    "SUPERFICIE": 13869.3693,
+    "LONGITUD_ETRS89": -2.45508633,
+    "LATITUD_ETRS89": 38.84252196,
+    "ALTITUD": 1027
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Barrax",
+    "SUPERFICIE": 18983.33,
+    "LONGITUD_ETRS89": -2.20045637,
+    "LATITUD_ETRS89": 39.0456106,
+    "ALTITUD": 733
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Bienservida",
+    "SUPERFICIE": 9073437,
+    "LONGITUD_ETRS89": -2.61184243,
+    "LATITUD_ETRS89": 38.51602097,
+    "ALTITUD": 898
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Bogarra",
+    "SUPERFICIE": 16601.4619,
+    "LONGITUD_ETRS89": -2.21253636,
+    "LATITUD_ETRS89": 38.58025427,
+    "ALTITUD": 844
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Bonete",
+    "SUPERFICIE": 12505526,
+    "LONGITUD_ETRS89": -1.34830324,
+    "LATITUD_ETRS89": 38.86950589,
+    "ALTITUD": 886
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "El Bonillo",
+    "SUPERFICIE": 50266,
+    "LONGITUD_ETRS89": -2.54023691,
+    "LATITUD_ETRS89": 38.95012362,
+    "ALTITUD": 1062
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Carcelén",
+    "SUPERFICIE": 7536.3731,
+    "LONGITUD_ETRS89": -1.30876708,
+    "LATITUD_ETRS89": 39.10231176,
+    "ALTITUD": 911
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Casas de Juan Núñez",
+    "SUPERFICIE": 8898.2779,
+    "LONGITUD_ETRS89": -1.55799035,
+    "LATITUD_ETRS89": 39.10160749,
+    "ALTITUD": 704
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Casas de Lázaro",
+    "SUPERFICIE": 11231.6773,
+    "LONGITUD_ETRS89": -2.23922378,
+    "LATITUD_ETRS89": 38.7705758,
+    "ALTITUD": 942
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Casas de Ves",
+    "SUPERFICIE": 12509.4606,
+    "LONGITUD_ETRS89": -1.33454992,
+    "LATITUD_ETRS89": 39.25946122,
+    "ALTITUD": 707
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Casas-Ibáñez",
+    "SUPERFICIE": 10325.14,
+    "LONGITUD_ETRS89": -1.47129143,
+    "LATITUD_ETRS89": 39.28701686,
+    "ALTITUD": 708
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Caudete",
+    "SUPERFICIE": 14163.49,
+    "LONGITUD_ETRS89": -0.9886912,
+    "LATITUD_ETRS89": 38.70573009,
+    "ALTITUD": 554
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Cenizate",
+    "SUPERFICIE": 6326.0153,
+    "LONGITUD_ETRS89": -1.66113349,
+    "LATITUD_ETRS89": 39.30332101,
+    "ALTITUD": 706
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Corral-Rubio",
+    "SUPERFICIE": 9475.5686,
+    "LONGITUD_ETRS89": -1.4608525,
+    "LATITUD_ETRS89": 38.83500072,
+    "ALTITUD": 870
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Cotillas",
+    "SUPERFICIE": 1446.9288,
+    "LONGITUD_ETRS89": -2.50574545,
+    "LATITUD_ETRS89": 38.43135915,
+    "ALTITUD": 947
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Chinchilla de Monte-Aragón",
+    "SUPERFICIE": 67927.33,
+    "LONGITUD_ETRS89": -1.72602643,
+    "LATITUD_ETRS89": 38.9210968,
+    "ALTITUD": 907
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Elche de la Sierra",
+    "SUPERFICIE": 23949.4125,
+    "LONGITUD_ETRS89": -2.04781376,
+    "LATITUD_ETRS89": 38.44790893,
+    "ALTITUD": 630
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Férez",
+    "SUPERFICIE": 12614.1544,
+    "LONGITUD_ETRS89": -2.00953934,
+    "LATITUD_ETRS89": 38.35567013,
+    "ALTITUD": 682
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Fuensanta",
+    "SUPERFICIE": 2395.6454,
+    "LONGITUD_ETRS89": -2.06725219,
+    "LATITUD_ETRS89": 39.24466001,
+    "ALTITUD": 693
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Fuente-Álamo",
+    "SUPERFICIE": 13339011,
+    "LONGITUD_ETRS89": -1.43170411,
+    "LATITUD_ETRS89": 38.69314229,
+    "ALTITUD": 820
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Fuentealbilla",
+    "SUPERFICIE": 10829379,
+    "LONGITUD_ETRS89": -1.54879364,
+    "LATITUD_ETRS89": 39.26773579,
+    "ALTITUD": 670
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "La Gineta",
+    "SUPERFICIE": 13676.47,
+    "LONGITUD_ETRS89": -1.99784496,
+    "LATITUD_ETRS89": 39.11387916,
+    "ALTITUD": 691
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Golosalvo",
+    "SUPERFICIE": 2817.6676,
+    "LONGITUD_ETRS89": -1.63626863,
+    "LATITUD_ETRS89": 39.23996013,
+    "ALTITUD": 740
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Hellín",
+    "SUPERFICIE": 78165.58,
+    "LONGITUD_ETRS89": -1.70344921,
+    "LATITUD_ETRS89": 38.51218953,
+    "ALTITUD": 570
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "La Herrera",
+    "SUPERFICIE": 6342.58,
+    "LONGITUD_ETRS89": -2.12637236,
+    "LATITUD_ETRS89": 38.9621774,
+    "ALTITUD": 714
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Higueruela",
+    "SUPERFICIE": 20545.4904,
+    "LONGITUD_ETRS89": -1.44535609,
+    "LATITUD_ETRS89": 38.96455026,
+    "ALTITUD": 1041
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Hoya-Gonzalo",
+    "SUPERFICIE": 11457.4972,
+    "LONGITUD_ETRS89": -1.55687053,
+    "LATITUD_ETRS89": 38.95787352,
+    "ALTITUD": 929
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Jorquera",
+    "SUPERFICIE": 6797.0751,
+    "LONGITUD_ETRS89": -1.52061391,
+    "LATITUD_ETRS89": 39.17457441,
+    "ALTITUD": 624
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Letur",
+    "SUPERFICIE": 26440.16,
+    "LONGITUD_ETRS89": -2.10096881,
+    "LATITUD_ETRS89": 38.36632081,
+    "ALTITUD": 735
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Lezuza",
+    "SUPERFICIE": 36090.3503,
+    "LONGITUD_ETRS89": -2.35387427,
+    "LATITUD_ETRS89": 38.94878996,
+    "ALTITUD": 913
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Liétor",
+    "SUPERFICIE": 31178.91,
+    "LONGITUD_ETRS89": -1.95479319,
+    "LATITUD_ETRS89": 38.54083745,
+    "ALTITUD": 641
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Madrigueras",
+    "SUPERFICIE": 7334.55,
+    "LONGITUD_ETRS89": -1.7997012,
+    "LATITUD_ETRS89": 39.23680339,
+    "ALTITUD": 688
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Mahora",
+    "SUPERFICIE": 10814.91,
+    "LONGITUD_ETRS89": -1.72481837,
+    "LATITUD_ETRS89": 39.21303088,
+    "ALTITUD": 663
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Masegoso",
+    "SUPERFICIE": 10387.0257,
+    "LONGITUD_ETRS89": -2.31511768,
+    "LATITUD_ETRS89": 38.71877813,
+    "ALTITUD": 1108
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Minaya",
+    "SUPERFICIE": 6983.1234,
+    "LONGITUD_ETRS89": -2.31961973,
+    "LATITUD_ETRS89": 39.27118701,
+    "ALTITUD": 723
+  },
+  {
+    "COD_PROV": 2,
+    "PROVINCIA": "Albacete",
+    "NOMBRE_ACTUAL": "Molinicos",
+    "SUPERFICIE": 14358.8298,
+    "LONGITUD_ETRS89": -2.23898151,
+    "LATITUD_ETRS89": 38.46778179,
+    "ALTITUD": 851
+  }
+]
