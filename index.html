@@ -1,18 +1,50 @@
 <html>
   <head>
-    
     <meta charset="utf-8"/>
-    <title>Family tree heatmap</title>
+    <title>Family Tree Heatmap</title>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   </head>
   <body>
+    <h1>Family Tree Heatmap</h1>
+    <p>Upload your GEDCOM file:</p>
+    <input type="file" onchange="gedcom_handler(this)">
     <script type="text/javascript">
+      // Obtenemos la lista de municipios:
       console.log("Fetching data...");
-      $.getJSON("https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json").then(data => {
-        console.log(data);
+      $.getJSON("https://raw.githubusercontent.com/fj-blanco/js-geogen/master/municipios/lista_municipios_test.json").then(data => {
+        var municipios = data;
+        //console.log(data);
+        //console.log(municipios[0].ALTITUD);
+        console.log(municipios.filter(function (entry) {
+          return entry.PROVINCIA === 'Albacete';
+        }));      
       }).catch(error => {
         console.error(error);
       });
+
+      // gedcom_handler:
+      function gedcom_handler(input) {
+            let file = input.files[0];
+            let reader = new FileReader();
+            reader.readAsText(file);
+            reader.onload = function() {
+              console.log(reader.result);
+              var gedcom_lines = reader.result.split("\n");
+              var arr_places_all = [];
+              for (i = 0; i< gedcom_lines.length; i++)
+                //console.log(n[i].indexOf("PLAC"));
+                //console.log(gedcom_lines[i].substring(2,6));
+                if (gedcom_lines[i].substring(2,6) == 'PLAC') {
+                  arr_places_all.push(gedcom_lines[i].substring(7));
+                }
+              for (j = 0; j< arr_places_all.length; j++)
+                console.log(arr_places_all[j]);
+            };
+            reader.onerror = function() {
+              console.log(reader.error);
+            };
+          };
+
     </script>
   </body>
 </html>
