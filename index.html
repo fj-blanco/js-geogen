@@ -35,8 +35,9 @@
                 //console.log(n[i].indexOf("PLAC"));
                 //console.log(gedcom_lines[i].substring(2,6));
                 if (gedcom_lines[i].substring(2,6) == 'PLAC') {
-                  arr_places_all.push(gedcom_lines[i].substring(7));
+                  arr_places_all.push(gedcom_lines[i].substring(7, gedcom_lines[i].indexOf(',')));
                 }
+              var arr_places_data = [];
               for (j = 0; j< arr_places_all.length; j++)
                 console.log(arr_places_all[j]);
             };
@@ -44,6 +45,11 @@
               console.log(reader.error);
             };
           };
+
+      // Getting coordinates:
+      function coordinates(input_2) {
+        
+      }
 
     </script>
   </body>
