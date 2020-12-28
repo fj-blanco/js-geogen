@@ -30,18 +30,22 @@
               /*var arr_places_data_all = coordinates(obj_municipios, arr_places_names_all);
               for (j = 0; j< arr_places_data_all.length; j++)
                 console.log(arr_places_data_all[j]);*/
-                get_municipios_json_parser(json_handler);
+              get_municipios_json_parser(json_handler, arr_places_names_all);
             };
             reader.onerror = function() {
               console.log(reader.error);
             };
           };
-      function json_handler(data) {
+      function json_handler(data, arr_places_names) {
           var obj_municipios = data;
-          //console.log(data);
-          console.log(obj_municipios.filter(function (entry) {
-            return entry.PROVINCIA === 'Albacete';
+          var arr_places_data = [];
+          // Obtenemos los datos de los municipios que tenemos en nuestra lista:
+          for (j = 0; j< arr_places_names.length; j++)
+            arr_places_data.push(obj_municipios.filter(function (entry) {
+            return entry.NOMBRE_ACTUAL == arr_places_names[j];
           }));
+          for (k = 0; k< arr_places_data.length; k++)
+                console.log(arr_places_data[k]);
       }
       // Getting the municipalities json by url:
       function get_municipios_json_parser(handler_callback) {
@@ -53,21 +57,10 @@
           /*console.log(obj_municipios.filter(function (entry) {
             return entry.PROVINCIA === 'Albacete';
           }));*/
-          handler_callback(data)    
+          handler_callback(data, arguments[1]);
         }).catch(error => {
           console.error(error);
         });
-      }
-
-      // Getting coordinates:
-      function coordinates(obj_municipios_2, arr_places_names) {
-        var arr_places_data = [];
-        /*for (j = 0; j< arr_places_names.length; j++)
-          arr_places_data.push(obj_municipios_2.filter(function (entry) {
-          return entry.NOMBRE_ACTUAL == arr_places_names[j];
-        }));*/
-          console.log(obj_municipios_2);
-          return arr_places_names
       }
 
     </script>
