@@ -41,9 +41,9 @@
           var arr_places_data = [];
           // Obtenemos los datos de los municipios que tenemos en nuestra lista:
           for (j = 0; j< arr_places_names.length; j++)
-            arr_places_data.push(obj_municipios.filter(function (entry) {
+            arr_places_data.push(arr_places_names[j], typeof obj_municipios.filter(function (entry) {
             return entry.NOMBRE_ACTUAL == arr_places_names[j];
-          }));
+          })[0]);
           for (k = 0; k< arr_places_data.length; k++)
                 console.log(arr_places_data[k]);
       }
