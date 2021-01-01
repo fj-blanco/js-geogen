@@ -31,7 +31,9 @@ function json_handler(data, arr_places_names) {
       arr_places_data.push(obj_municipios.filter(function (entry) {
       return entry.NOMBRE_ACTUAL == arr_places_names[j];
     })[0]);
+    var arr_places_coordinates = [];
     for (k = 0; k< arr_places_data.length; k++)
+          arr_places_coordinates.push([arr_places_data[k].LATITUD_ETRS89, arr_places_data[k].LONGITUD_ETRS89]);
           console.log([arr_places_data[k].LATITUD_ETRS89, arr_places_data[k].LONGITUD_ETRS89]);
 }
 // Getting the municipalities json by url:

@@ -13,7 +13,7 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
       integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
       crossorigin=""></script>
-    <script src="leaflet-heat.js"></script>
+    <script src="./leaflet-heat.js"></script>
     <script src="./index.js" type="text/javascript"></script>
     <style>
       body{
@@ -43,6 +43,7 @@
           zoomOffset: -1,
           accessToken: 'pk.eyJ1IjoiZmphdmliIiwiYSI6ImNramVvbGlmZDJtYzAycXJ1NGczdTBkaGgifQ.bU5WrKn-xNm5iv_F20QEmA'
       }).addTo(mymap);
+      var heat = L.heatLayer(arr_places_coordinates, {radius:12,blur:25,maxZoom:11}).addTo(mymap);
     </script>
   </body>
 </html>
