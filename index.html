@@ -7,8 +7,9 @@
   <body>
     <h1>Family Tree Heatmap</h1>
     <p>Upload your GEDCOM file:</p>
+    <script src="/index.js" type="text/javascript"></script>
     <input type="file" onchange="gedcom_handler(this)">
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
       // Obtenemos la lista de municipios:
       var municipios_json_link = "https://raw.githubusercontent.com/fj-blanco/js-geogen/master/municipios/municipios_data.json";
 
@@ -41,11 +42,11 @@
           var arr_places_data = [];
           // Obtenemos los datos de los municipios que tenemos en nuestra lista:
           for (j = 0; j< arr_places_names.length; j++)
-            arr_places_data.push(arr_places_names[j], typeof obj_municipios.filter(function (entry) {
+            arr_places_data.push(obj_municipios.filter(function (entry) {
             return entry.NOMBRE_ACTUAL == arr_places_names[j];
           })[0]);
           for (k = 0; k< arr_places_data.length; k++)
-                console.log(arr_places_data[k]);
+                console.log([arr_places_data[k].LATITUD_ETRS89, arr_places_data[k].LONGITUD_ETRS89]);
       }
       // Getting the municipalities json by url:
       function get_municipios_json_parser(handler_callback) {
@@ -63,6 +64,6 @@
         });
       }
 
-    </script>
+    </script>-->
   </body>
 </html>
