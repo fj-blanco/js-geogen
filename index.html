@@ -65,7 +65,7 @@
       var cfg = {
         // radius should be small ONLY if scaleRadius is true (or small radius is intended)
         // if scaleRadius is false it will be the constant radius used in pixels
-        "radius": 2,
+        "radius": 0.5,
         "maxOpacity": .8,
         // scales the radius based on map zoom
         "scaleRadius": true,
@@ -85,13 +85,13 @@
 
       var map = new L.Map('mapid', {
         center: new L.LatLng(40.4169, -3.7035),
-        zoom: 6,
+        zoom: 5.3,
         layers: [baseLayer, heatmapLayer]
       });
 
       var testData = {
         max: 8,
-        data: [{lat: 40.4169, lng:-3.7035, count: 3},{lat: 40.5169, lng:-3.8035, count: 1}]
+        data: [{lat: 40.4169, lng:-3.7035, count: 3},{lat: 41.5169, lng:-3.8035},{lat: 41.5169, lng:-3.8035},{lat: 41.5169, lng:-3.8035}]
       };
 
       heatmapLayer.setData(testData);
