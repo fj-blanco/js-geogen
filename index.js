@@ -15,7 +15,7 @@ var baseLayer = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
 var cfg = {
   // radius should be small ONLY if scaleRadius is true (or small radius is intended)
   // if scaleRadius is false it will be the constant radius used in pixels
-  "radius": 0.5,
+  "radius": 0.15,
   "maxOpacity": .8,
   // scales the radius based on map zoom
   "scaleRadius": true,
@@ -35,7 +35,7 @@ var heatmapLayer = new HeatmapOverlay(cfg);
 
 var map = new L.Map('mapid', {
   center: new L.LatLng(40.4169, -3.7035),
-  zoom: 5,
+  zoom: 5.5,
   layers: [baseLayer, heatmapLayer]
 });
 
