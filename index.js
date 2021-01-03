@@ -35,7 +35,7 @@ var heatmapLayer = new HeatmapOverlay(cfg);
 
 var map = new L.Map('mapid', {
   center: new L.LatLng(40.4169, -3.7035),
-  zoom: 5.3,
+  zoom: 5,
   layers: [baseLayer, heatmapLayer]
 });
 
@@ -81,7 +81,7 @@ function json_handler(data, arr_places_names) {
     //var heat = L.heatLayer(arr_places_coordinates, {radius:12,blur:25,maxZoom:11}).addTo(mymap);
     var testData = {
       max: 8,
-      data: [arr_places_coordinates
+      data: arr_places_coordinates
     };
 
     heatmapLayer.setData(testData);
