@@ -39,13 +39,6 @@ var map = new L.Map('mapid', {
   layers: [baseLayer, heatmapLayer]
 });
 
-/*var testData = {
-  max: 8,
-  data: [{lat: 40.4169, lng:-3.7035, count: 3},{lat: 41.5169, lng:-3.8035},{lat: 41.5169, lng:-3.8035},{lat: 41.5169, lng:-3.8035}]
-};
-
-heatmapLayer.setData(testData);*/
-
 // gedcom_handler:
 const gedcom_file = document.getElementById('gedcom_upload_button');
 gedcom_file.addEventListener("change", function() {
@@ -77,8 +70,6 @@ function json_handler(data, arr_places_names) {
     var arr_places_coordinates = [];
     for (k = 0; k< arr_places_data.length; k++)
           arr_places_coordinates.push({lat: arr_places_data[k].LATITUD_ETRS89, lng: arr_places_data[k].LONGITUD_ETRS89});
-          //console.log([arr_places_data[k].LATITUD_ETRS89, arr_places_data[k].LONGITUD_ETRS89]);
-    //var heat = L.heatLayer(arr_places_coordinates, {radius:12,blur:25,maxZoom:11}).addTo(mymap);
     var testData = {
       max: 8,
       data: arr_places_coordinates
