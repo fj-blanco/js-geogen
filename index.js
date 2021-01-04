@@ -13,19 +13,12 @@ var baseLayer = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
 });
 
 var cfg = {
-  // radius should be small ONLY if scaleRadius is true (or small radius is intended)
-  // if scaleRadius is false it will be the constant radius used in pixels
   "radius": 0.15,
-  "maxOpacity": .8,
-  // scales the radius based on map zoom
+  "maxOpacity": .85,
   "scaleRadius": true,
-  // if set to false the heatmap uses the global maximum for colorization
-  // if activated: uses the data maximum within the current map boundaries
-  //   (there will always be a red spot with useLocalExtremas true)
   "useLocalExtrema": false,
   latField: 'lat',
   lngField: 'lng',
-  // which field name in your data represents the data value - default "value"
   valueField: 'count'
 };
 
